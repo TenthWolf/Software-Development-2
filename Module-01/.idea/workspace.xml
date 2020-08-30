@@ -20,57 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Module-01.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/FolderFinderFX.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/MainController.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/Node.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/JavaDoc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/index-files/index-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/src/Main.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/src/MainController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FolderFinderFX/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assignment-01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assignment-01/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FolderFinderFX/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FolderFinderFX/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FolderFinderFX/Main.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,6 +210,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
@@ -269,21 +221,29 @@
       <screen x="1920" y="-1021" width="1080" height="1900" />
     </state>
     <state x="1920" y="-386" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827508237" />
-    <state width="1038" height="436" key="GridCell.Tab.0.bottom" timestamp="1598827494873">
+    <state x="2208" y="-321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598827758328">
       <screen x="1920" y="-1021" width="1080" height="1900" />
     </state>
-    <state width="1038" height="436" key="GridCell.Tab.0.bottom/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827494873" />
-    <state width="1038" height="436" key="GridCell.Tab.0.center" timestamp="1598827494873">
+    <state x="2208" y="-321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827758328" />
+    <state x="2242" y="-285" key="FileChooserDialogImpl" timestamp="1598827750897">
       <screen x="1920" y="-1021" width="1080" height="1900" />
     </state>
-    <state width="1038" height="436" key="GridCell.Tab.0.center/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827494873" />
-    <state width="1038" height="436" key="GridCell.Tab.0.left" timestamp="1598827494872">
+    <state x="2242" y="-285" key="FileChooserDialogImpl/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827750897" />
+    <state width="1038" height="436" key="GridCell.Tab.0.bottom" timestamp="1598827825540">
       <screen x="1920" y="-1021" width="1080" height="1900" />
     </state>
-    <state width="1038" height="436" key="GridCell.Tab.0.left/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827494872" />
-    <state width="1038" height="436" key="GridCell.Tab.0.right" timestamp="1598827494873">
+    <state width="1038" height="436" key="GridCell.Tab.0.bottom/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827825540" />
+    <state width="1038" height="436" key="GridCell.Tab.0.center" timestamp="1598827825540">
       <screen x="1920" y="-1021" width="1080" height="1900" />
     </state>
-    <state width="1038" height="436" key="GridCell.Tab.0.right/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827494873" />
+    <state width="1038" height="436" key="GridCell.Tab.0.center/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827825540" />
+    <state width="1038" height="436" key="GridCell.Tab.0.left" timestamp="1598827825540">
+      <screen x="1920" y="-1021" width="1080" height="1900" />
+    </state>
+    <state width="1038" height="436" key="GridCell.Tab.0.left/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827825540" />
+    <state width="1038" height="436" key="GridCell.Tab.0.right" timestamp="1598827825540">
+      <screen x="1920" y="-1021" width="1080" height="1900" />
+    </state>
+    <state width="1038" height="436" key="GridCell.Tab.0.right/1920.-1021.1080.1900/0.0.1920.1040@1920.-1021.1080.1900" timestamp="1598827825540" />
   </component>
 </project>
