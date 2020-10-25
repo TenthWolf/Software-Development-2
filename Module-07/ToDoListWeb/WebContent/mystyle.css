@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#NavBar{
+    height: 60px;
+    background:  black;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 40px;
+}
+
+#NavBar ul{
+    padding: 0;
+    margin: 0;
+   
+    margin-right: 100px;
+}
+
+#NavBar ul li{
+    background: rgb(0, 0, 0);
+    position: relative;
+    list-style: none;
+    display: inline-block;
+}
+
+#NavBar  ul li a{
+    padding: 0 15px;
+    color: white;
+    text-decoration: none;
+    line-height: 60px;
+    font-size: 20px;
+
+    
+}
+
+#NavBar ul li a:hover{
+    text-decoration: underline;
+
+    transition: all ease-in-out 1000ms;
+
+}
+
+#NarBar ul li ul{
+	float: right;
+}
+
